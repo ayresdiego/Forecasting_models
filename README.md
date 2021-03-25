@@ -5,3 +5,4 @@
 - Data Analysis
 - Statistical tests
 - Machine Learning
+- Forecasting models
