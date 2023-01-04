@@ -65,4 +65,4 @@ def model_arima(series):
 company_id = "GOOGL"
 series = yfinance_data(company_id)
 
-model_arima(series)
+model_arima(series) 
